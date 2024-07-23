@@ -29,12 +29,10 @@ Tecnologias dominadas:
   - Power Bi
   - HTML
   - CSS
-  - CRM
+
 
 Estou aprimorando e tirando certificações :
 
   - Power Bi
   - SQL
-  - Machine Learning
-  - Data Science full stack
-  - Certificação de dados DNC
+  - Python
