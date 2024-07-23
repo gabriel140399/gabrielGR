@@ -6,7 +6,6 @@ Bem-vindo ao meu GitHub!
 
   - 🇧🇷 Brasileiro
   - 👶 Aniversário em 14 de março de 1999
-  - 🐶 Tenho uma cachorrinha
 
 💻 Atualmente, estou totalmente focado em entender como resolver problemas utilizando dados e análises.
 
